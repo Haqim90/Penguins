@@ -7,12 +7,17 @@ The data set contains measurements for different species of penguins living at t
 
 The tools we will be using are:
 
-Pandas, used for data analysis and manipulation
 
-Numpy, used for scientific computation
+Pandas,
 
-Matplotlib, used for creating static, animated, and interactive visualization
+Numpy,
 
-Seaborn, used for data visualization matplotlib based
+Matplotlib,
 
-Sklearn, used for predictive data analysis
+Seaborn, 
+
+Sklearn, 
+
+![image](https://github.com/Haqim90/Penguins/assets/126364356/f4f6eac5-961e-4b1b-a7ed-1d3248ad6ae6)
+
+
