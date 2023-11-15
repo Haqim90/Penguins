@@ -7,6 +7,7 @@ The data set contains measurements for different species of penguins living at t
 ![image](https://github.com/Haqim90/Penguins/assets/126364356/70dc1373-0571-4964-933c-b7d10d2b6cb7)
 
 
+
 The tools we will be using are:
 
 
