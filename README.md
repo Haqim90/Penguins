@@ -24,3 +24,7 @@ Sklearn, used for predictive data analysis
 ![image](https://github.com/Haqim90/Penguins/assets/126364356/f4f6eac5-961e-4b1b-a7ed-1d3248ad6ae6)
 
 
+For more information about the project, check my blog on Meduim : https://medium.com/@hasna.aqim/penguins-classifier-using-machine-learning-model-b594201f6bd8
+
+
+
